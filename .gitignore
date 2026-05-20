@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Dynamic / Temp directories
+.gemini/
+node_modules/
+.tempmediaStorage/
+scratch/
+*.js.map
+*.pyc
